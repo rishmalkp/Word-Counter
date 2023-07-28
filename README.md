@@ -1,2 +1,2 @@
 # Word-Counter
-Built a word counter with django as backend. Tried a different request methods as POST and GET.
+Built a word counter with Python and django as backend framework. Tried a different request methods as POST and GET.
